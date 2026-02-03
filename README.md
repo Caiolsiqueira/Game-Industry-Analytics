@@ -44,8 +44,9 @@ Durante a análise, identificamos três pilares fundamentais do mercado:
 ## 📂 Estrutura do Repositório
 * `Game_Analytics.ipynb`: Notebook com todo o código e análise passo-a-passo.
 * `vendas_games.csv`: Dataset utilizado (Fonte: VGChartz/Kaggle).
-* `img_games/`: Imagens geradas para o README.
+* `img/`: Imagens geradas para o README.
 
 ---
-**Autor:** [Seu Nome Aqui]
-[Link para seu LinkedIn]
+**Autor:** Caio Lucas Siqueira
+
+**LinkedIn:** www.linkedin.com/in/caio-lucas-siqueira-7py
